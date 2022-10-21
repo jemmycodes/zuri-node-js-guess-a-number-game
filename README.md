@@ -1,2 +1,2 @@
 # zuri-node-js-guess-a-number-game
-https://github.com/jemmycodes/zuri-node-js-guess-a-number-game
+https://replit.com/@jemmycodes/Zuri-Guess-a-number-Node-Project#script.js
